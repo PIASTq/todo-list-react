@@ -15,3 +15,12 @@ On this website you can add new tasks to do, mark them as made and remove them
 ## Preview
 
 ![Screen of the page](page-screen.png)
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- ES6+ features
+- BEM convention
+- Create React App
